@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "EnviBayes"
+  description: "ISBA Section on Environmental Sciences (EnviBayes)"
+  navbar:
+    logo: EnviBayes_Logo_navbar.png
+    logo-alt: "EnviBayes"
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events.qmd
+        text: Events
+      - href: student-paper-competition.qmd
+        text: Student Paper Competition
+      - href: bylaws.qmd
+        text: Bylaws
+      - href: board.qmd
+        text: Board
+    right:
+      - icon: globe
+        href: https://bayesian.org/sectionschapters/environmental-sciences/
+        text: ISBA section page
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true
+    link-external-newwindow: true
+
+lang: en
