@@ -1,0 +1,133 @@
+/*-- scss:defaults --*/
+$primary: #2d6a4f;
+$secondary: #40916c;
+$body-bg: #ffffff;
+$body-color: #000000;
+$link-color: #1b4332;
+$link-hover-color: #2d6a4f;
+$headings-color: #000000;
+$border-color: #dee2e6;
+
+/*-- scss:rules --*/
+/* Home: logo replaces visible title; website layout still injects title headers — hide them */
+body.page-home-logo #quarto-document-content > header {
+  display: none !important;
+}
+
+body.page-home-logo .home-subtitle {
+  color: #5c6368;
+  font-size: 1.2rem;
+  line-height: 1.45;
+  margin-top: 0.35rem;
+  margin-bottom: 1.25rem;
+  max-width: 42rem;
+}
+
+body.page-home-logo .home-subtitle p {
+  margin: 0;
+}
+
+/* Dark green title banner only; main column stays white via $body-bg */
+.quarto-title-banner {
+  background: #1b4332 !important;
+  border-bottom: 1px solid #0f2818;
+}
+
+.quarto-title-banner .quarto-title h1.title,
+.quarto-title-banner .quarto-title .subtitle,
+.quarto-title-banner .quarto-categories,
+.quarto-title-banner .description,
+.quarto-title-banner .quarto-title-meta {
+  color: #e8f5e9 !important;
+}
+
+.quarto-title-banner a {
+  color: #b7e4c7 !important;
+}
+
+.quarto-title-banner a:hover {
+  color: #ffffff !important;
+}
+
+/* Home page: logo in title banner replaces visible title; keep h1 for SEO/a11y */
+#title-block-header:has(.quarto-title-logo) .quarto-title h1.title {
+  border: 0 !important;
+  clip: rect(0, 0, 0, 0) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+}
+
+#title-block-header:has(.quarto-title-logo) .quarto-title-logo img {
+  max-height: 4.5rem;
+  width: auto;
+  max-width: 100%;
+}
+
+/* Top header / navbar: same dark green as title banner; page body stays white */
+.navbar {
+  background-color: #1b4332 !important;
+  border-bottom: 1px solid #0f2818;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .navbar-nav .nav-link.active {
+  color: #e8f5e9 !important;
+}
+
+.navbar .navbar-brand > img {
+  max-height: 1.418rem; /* further ~10% smaller than 1.575rem */
+  width: auto;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #ffffff !important;
+}
+
+.navbar .navbar-toggler {
+  border-color: rgba(232, 245, 233, 0.5);
+}
+
+/* Bootstrap 5 default toggler icon is dark; invert for dark green bar */
+.navbar .navbar-toggler-icon {
+  filter: brightness(0) invert(1);
+}
+
+/* Student Paper Competition: narrow Year & University, wide Title */
+.student-competition-table table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.student-competition-table th:nth-child(1),
+.student-competition-table td:nth-child(1) {
+  width: 14%;
+}
+
+.student-competition-table th:nth-child(2),
+.student-competition-table td:nth-child(2) {
+  width: 8%;
+}
+
+.student-competition-table th:nth-child(3),
+.student-competition-table td:nth-child(3) {
+  width: 22%;
+}
+
+.student-competition-table th:nth-child(4),
+.student-competition-table td:nth-child(4) {
+  width: 56%;
+  word-wrap: break-word;
+}
+
+footer.footer,
+#quarto-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  color: #495057;
+}
