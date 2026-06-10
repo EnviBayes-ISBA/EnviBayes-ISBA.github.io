@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://EnviBayes-ISBA.github.io/events.html</loc>
-    <lastmod>2026-06-10T12:58:15.371Z</lastmod>
-  </url>
-  <url>
-    <loc>https://EnviBayes-ISBA.github.io/student-paper-competition.html</loc>
-    <lastmod>2026-06-10T12:58:15.372Z</lastmod>
-  </url>
-  <url>
-    <loc>https://EnviBayes-ISBA.github.io/bylaws.html</loc>
-    <lastmod>2026-06-10T12:58:15.371Z</lastmod>
+    <loc>https://EnviBayes-ISBA.github.io/index.html</loc>
+    <lastmod>2026-06-10T12:59:56.086Z</lastmod>
   </url>
   <url>
     <loc>https://EnviBayes-ISBA.github.io/board.html</loc>
-    <lastmod>2026-06-10T12:58:15.371Z</lastmod>
+    <lastmod>2026-06-10T12:59:56.086Z</lastmod>
   </url>
   <url>
-    <loc>https://EnviBayes-ISBA.github.io/index.html</loc>
-    <lastmod>2026-06-10T12:58:15.371Z</lastmod>
+    <loc>https://EnviBayes-ISBA.github.io/student-paper-competition.html</loc>
+    <lastmod>2026-06-10T12:59:56.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://EnviBayes-ISBA.github.io/events.html</loc>
+    <lastmod>2026-06-10T12:59:56.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://EnviBayes-ISBA.github.io/bylaws.html</loc>
+    <lastmod>2026-06-10T12:59:56.086Z</lastmod>
   </url>
 </urlset>
