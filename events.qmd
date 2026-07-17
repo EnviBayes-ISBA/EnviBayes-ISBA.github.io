@@ -2,6 +2,22 @@
 title: "Events"
 ---
 
+## EnviBayes–INLA Workshop 2027
+
+The **EnviBayes–INLA Workshop 2027** is the first joint meeting between the EnviBayes and INLA workshop series, bringing together researchers developing Bayesian methods for environmental, ecological, spatial, and spatio-temporal statistics. The programme will feature keynote lectures, contributed talks, poster sessions, and hands-on tutorials, covering topics including INLA, spatial modelling, extreme value analysis, climate and weather, ecology, epidemiology, and environmental applications.
+
+- **When:** 22–24 June 2027  
+- **Where:** Glasgow, UK  
+
+![](EnviBayes_Workshop.png){fig-alt="EnviBayes–INLA Workshop 2027" fig-align="left" width="480"}
+
+Details and participation information:
+
+- Workshop site: [envibayesinla.github.io/workshop](https://envibayesinla.github.io/workshop/)
+
+Registration and abstract submission for talks and posters are expected to open in September 2026.
+
+
 ## International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change 2026
 
 The **LACSC–TIES–EnviBayes–EnvrASA 2026** conference brings together researchers in statistics, data science, and computing for the environment and climate change. The meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, **EnviBayes (ISBA)**, and ENVR (ASA).
