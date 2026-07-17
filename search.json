@@ -28,6 +28,55 @@
     "text": "Contact\nFor ISBA-wide inquiries, see bayesian.org contact details (e.g. webmaster and membership). Section-specific updates appear on the EnviBayes section page."
   },
   {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "The EnviBayes–INLA Workshop 2027 is the first joint meeting between the EnviBayes and INLA workshop series, bringing together researchers developing Bayesian methods for environmental, ecological, spatial, and spatio-temporal statistics. The programme will feature keynote lectures, contributed talks, poster sessions, and hands-on tutorials, covering topics including INLA, spatial modelling, extreme value analysis, climate and weather, ecology, epidemiology, and environmental applications.\n\nWhen: 22–24 June 2027\n\nWhere: Glasgow, UK\n\n\n\n\n\n\nDetails and participation information:\n\nWorkshop site: envibayesinla.github.io/workshop\n\nRegistration and abstract submission for talks and posters are expected to open in September 2026."
+  },
+  {
+    "objectID": "events.html#envibayesinla-workshop-2027",
+    "href": "events.html#envibayesinla-workshop-2027",
+    "title": "Events",
+    "section": "",
+    "text": "The EnviBayes–INLA Workshop 2027 is the first joint meeting between the EnviBayes and INLA workshop series, bringing together researchers developing Bayesian methods for environmental, ecological, spatial, and spatio-temporal statistics. The programme will feature keynote lectures, contributed talks, poster sessions, and hands-on tutorials, covering topics including INLA, spatial modelling, extreme value analysis, climate and weather, ecology, epidemiology, and environmental applications.\n\nWhen: 22–24 June 2027\n\nWhere: Glasgow, UK\n\n\n\n\n\n\nDetails and participation information:\n\nWorkshop site: envibayesinla.github.io/workshop\n\nRegistration and abstract submission for talks and posters are expected to open in September 2026."
+  },
+  {
+    "objectID": "events.html#international-conference-on-statistics-data-science-and-computing-for-the-environment-and-climate-change-2026",
+    "href": "events.html#international-conference-on-statistics-data-science-and-computing-for-the-environment-and-climate-change-2026",
+    "title": "Events",
+    "section": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change 2026",
+    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change 2026\nThe LACSC–TIES–EnviBayes–EnvrASA 2026 conference brings together researchers in statistics, data science, and computing for the environment and climate change. The meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA).\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\n\n\n\n\n\nDetails and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026"
+  },
+  {
+    "objectID": "events.html#envibayes-stsds-webinar-2026",
+    "href": "events.html#envibayes-stsds-webinar-2026",
+    "title": "Events",
+    "section": "EnviBayes × STSDS webinar 2026",
+    "text": "EnviBayes × STSDS webinar 2026\n\n\n\n\n\nEnviBayes is partnering with STSDS (Spatio-Temporal Statistics & Data Science) to organize a webinar as part of the STSDS international seminar series. Details will be announced here — stay tuned!"
+  },
+  {
+    "objectID": "events.html#envibayes-workshop-on-complex-environmental-data-2025",
+    "href": "events.html#envibayes-workshop-on-complex-environmental-data-2025",
+    "title": "Events",
+    "section": "EnviBayes Workshop on Complex Environmental Data 2025",
+    "text": "EnviBayes Workshop on Complex Environmental Data 2025\n\n\n\n\n\nThe Department of Statistics at Texas A&M University hosted the 2025 EnviBayes Workshop on Complex Environmental Data, bringing together researchers working on environmental challenges and Bayesian statistics.\n\nWhen: 29–31 October 2025\n\nWhere: Texas A&M University, College Station, TX\n\nThe workshop featured three plenary talks, 21 invited presentations, contributions from EnviBayes Student Paper Award winners, and a poster session. Sessions covered scalable Bayesian methods, remote sensing, air pollution modeling, ecological forecasting, and related topics.\n\nEvent listing: Texas A&M University calendar\nRecap: EnviBayes Workshop at Texas A&M — College of Arts and Sciences"
+  },
+  {
+    "objectID": "events.html#past-events",
+    "href": "events.html#past-events",
+    "title": "Events",
+    "section": "Past events",
+    "text": "Past events\nFor past events, see the EnviBayes Meeting archive on bayesian.org."
+  },
+  {
+    "objectID": "bylaws.html",
+    "href": "bylaws.html",
+    "title": "Bylaws",
+    "section": "",
+    "text": "The EnviBayes section operates under ISBA governance. Formal bylaws for the section are linked from the ISBA Environmental Sciences (EnviBayes) section page (see BYLAWS on that page).\nIn general, ISBA sections:\n\nalign officer roles and elections with the ISBA constitution and bylaws;\nset section membership dues subject to ISBA Board approval;\nreport section activities to ISBA as required.\n\nIf anything on this site disagrees with the published ISBA materials, the ISBA website is authoritative."
+  },
+  {
     "objectID": "board.html",
     "href": "board.html",
     "title": "Board",
@@ -61,47 +110,5 @@
     "title": "Student Paper Competition",
     "section": "",
     "text": "EnviBayes organizes a student paper competition each year. Student winners have the opportunity to present their work at an EnviBayes invited session. Details of the 2027 Student Paper Competition will be announced soon.\nPast winners:\n\n\n\n\n\n\n\n\n\n\nName\nYear\nUniversity\nTitle\n\n\n\n\nAntonio Aguirre\nJan 2026\nUC Santa Cruz, USA\nBayesian quantile-based correction and synthesis of river flow\n\n\nViviana Carcaiso\nJan 2026\nUniversity of Padova, Italy\nBayesian mixture models for heterogeneous extremes\n\n\nFrancesca Labanca\nJan 2026\nUniversity of Florence, Italy\nCopula-based models for spatially dependent cylindrical data\n\n\nShih-Ni Prim\nJan 2026\nNorth Carolina State University, USA\nA spectral confounder adjustment for spatial regression with multiple exposures and outcomes\n\n\nJosh Jacobson\nFeb 2025\nUniversity of Wollongong\nWOMBAT v2.S: A Bayesian inversion framework for attributing global CO2 flux components with multiprocess data\n\n\nAlexander Mozdzen\nFeb 2025\nUniversity of Klagenfurt\nBayesian nonparametric partial clustering: quantifying the effectiveness of agricultural subsidies across Europe\n\n\nMuyang Shi\nFeb 2025\nColorado State University\nSpatial scale-aware tail dependence modeling for high-dimensional spatial extremes\n\n\nHaoxuan Wang\nFeb 2025\nDuke University\nBayesian modeling of multi-species labeling errors in ecological studies\n\n\nSam Gailliot\nJan 2024\nTexas A&M University\nData sketching and stacking: a confluence of two strategies for predictive inference in high-dimensional Gaussian process regressions with air pollution data\n\n\nJorge Castillo-Mateo\nJan 2024\nUniversity of Zaragoza/Duke University\nSpatio-temporal modeling for record-breaking temperature events in Spain\n\n\nGlenn Palmer\nJan 2024\nDuke University\nLow-rank longitudinal factor regression\n\n\nBora Jin\nJan 2022\nDuke University\n\n\n\nXiaotian Zheng\nJan 2022\nUniversity of California Santa Cruz"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "The LACSC–TIES–EnviBayes–EnvrASA 2026 conference brings together researchers in statistics, data science, and computing for the environment and climate change. The meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA).\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\n\n\n\n\n\nDetails and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026"
-  },
-  {
-    "objectID": "events.html#international-conference-on-statistics-data-science-and-computing-for-the-environment-and-climate-change-2026",
-    "href": "events.html#international-conference-on-statistics-data-science-and-computing-for-the-environment-and-climate-change-2026",
-    "title": "Events",
-    "section": "",
-    "text": "The LACSC–TIES–EnviBayes–EnvrASA 2026 conference brings together researchers in statistics, data science, and computing for the environment and climate change. The meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA).\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\n\n\n\n\n\nDetails and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026"
-  },
-  {
-    "objectID": "events.html#envibayes-stsds-webinar-2026",
-    "href": "events.html#envibayes-stsds-webinar-2026",
-    "title": "Events",
-    "section": "EnviBayes × STSDS webinar 2026",
-    "text": "EnviBayes × STSDS webinar 2026\n\n\n\n\n\nEnviBayes is partnering with STSDS (Spatio-Temporal Statistics & Data Science) to organize a webinar as part of the STSDS international seminar series. Details will be announced here — stay tuned!"
-  },
-  {
-    "objectID": "events.html#envibayes-workshop-on-complex-environmental-data-2025",
-    "href": "events.html#envibayes-workshop-on-complex-environmental-data-2025",
-    "title": "Events",
-    "section": "EnviBayes Workshop on Complex Environmental Data 2025",
-    "text": "EnviBayes Workshop on Complex Environmental Data 2025\n\n\n\n\n\nThe Department of Statistics at Texas A&M University hosted the 2025 EnviBayes Workshop on Complex Environmental Data, bringing together researchers working on environmental challenges and Bayesian statistics.\n\nWhen: 29–31 October 2025\n\nWhere: Texas A&M University, College Station, TX\n\nThe workshop featured three plenary talks, 21 invited presentations, contributions from EnviBayes Student Paper Award winners, and a poster session. Sessions covered scalable Bayesian methods, remote sensing, air pollution modeling, ecological forecasting, and related topics.\n\nEvent listing: Texas A&M University calendar\nRecap: EnviBayes Workshop at Texas A&M — College of Arts and Sciences"
-  },
-  {
-    "objectID": "events.html#past-events",
-    "href": "events.html#past-events",
-    "title": "Events",
-    "section": "Past events",
-    "text": "Past events\nFor past events, see the EnviBayes Meeting archive on bayesian.org."
-  },
-  {
-    "objectID": "bylaws.html",
-    "href": "bylaws.html",
-    "title": "Bylaws",
-    "section": "",
-    "text": "The EnviBayes section operates under ISBA governance. Formal bylaws for the section are linked from the ISBA Environmental Sciences (EnviBayes) section page (see BYLAWS on that page).\nIn general, ISBA sections:\n\nalign officer roles and elections with the ISBA constitution and bylaws;\nset section membership dues subject to ISBA Board approval;\nreport section activities to ISBA as required.\n\nIf anything on this site disagrees with the published ISBA materials, the ISBA website is authoritative."
   }
 ]
