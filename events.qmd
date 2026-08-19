@@ -11,9 +11,7 @@ The **EnviBayes–INLA Workshop 2027** is the first joint meeting between the En
 
 ![](EnviBayes_Workshop.png){fig-alt="EnviBayes–INLA Workshop 2027" fig-align="left" width="480"}
 
-Details and participation information can be found here:
-
-- Workshop site: [envibayesinla.github.io/workshop](https://envibayesinla.github.io/workshop2027/)
+Details and participation information can be found here: [https://envibayesinla.github.io/workshop2027/](https://envibayesinla.github.io/workshop2027/)
 
 
 
