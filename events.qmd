@@ -11,11 +11,11 @@ The **EnviBayes–INLA Workshop 2027** is the first joint meeting between the En
 
 ![](EnviBayes_Workshop.png){fig-alt="EnviBayes–INLA Workshop 2027" fig-align="left" width="480"}
 
-Details and participation information:
+Details and participation information can be found here:
 
-- Workshop site: [envibayesinla.github.io/workshop](https://envibayesinla.github.io/workshop/)
+- Workshop site: [envibayesinla.github.io/workshop](https://envibayesinla.github.io/workshop2027/)
 
-Registration and abstract submission for talks and posters are expected to open in September 2026.
+
 
 
 ## International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change 2026
