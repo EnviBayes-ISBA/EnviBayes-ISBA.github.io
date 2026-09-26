@@ -31,11 +31,15 @@ Details and participation information:
 - Call for papers (IASC–ISI notice): [Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026](https://iasc-isi.org/2026/02/08/call-for-papers-of-the-lacsc-ties-envibayes-envrasa-2026/)
 
 
-## EnviBayes × STSDS webinar 2026
+## EnviBayes × STSDS seminars
 
 ![](STSDS_Logo.png){fig-alt="STSDS — Spatio-Temporal Statistics & Data Science" fig-align="left" width="280"}
 
-EnviBayes is partnering with [STSDS (Spatio-Temporal Statistics & Data Science)](https://www.stsds.org/) to organize a webinar as part of the STSDS international seminar series. Details will be announced here — stay tuned!
+EnviBayes has partnered with [STSDS (Spatio-Temporal Statistics & Data Science)](https://www.stsds.org/) to co-organize seminars as part of the STSDS international seminar series. Our first joint seminar, given by Likun Zhang (University of Missouri), has now taken place, and the recording is available on YouTube:
+
+[![](https://img.youtube.com/vi/N0Oh8yxJdus/maxresdefault.jpg){fig-alt="Recording: Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders" fig-align="left" width="480"}](https://www.youtube.com/watch?v=N0Oh8yxJdus&t=272s)
+
+Further seminars will be announced here — stay tuned!
 
 
 ## EnviBayes Workshop on Complex Environmental Data 2025
