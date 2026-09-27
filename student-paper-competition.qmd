@@ -2,9 +2,33 @@
 title: "Student Paper Competition"
 ---
 
-**EnviBayes** organizes a student paper competition each year. Student winners have the opportunity to present their work at an EnviBayes invited session. Details of the 2027 Student Paper Competition will be announced soon.
+**EnviBayes** organizes a student paper competition each year. Student winners have the opportunity to present their work at an EnviBayes invited session.
 
-Past winners:
+## 2027 EnviBayes Student Paper Competition
+
+The EnviBayes section of ISBA is pleased to announce the 2027 EnviBayes student paper competition. Papers considered for this competition should present the development of new Bayesian methodology to address problems in environmental sciences and/or novel applications of existing Bayesian statistical methods for the analysis of environmental data. Applicants must be the first or corresponding author of the paper, if there are other authors.
+
+**Eligibility:** The applicant must be:
+
+- the first or corresponding author of the paper;
+- currently a student (undergraduate, Master, Ph.D.) or have graduated after June 1, 2025;
+- submitting a paper that is unpublished or currently under review but has not been accepted for publication either in print or online by December 1, 2026;
+- a member of ISBA and EnviBayes.
+
+**Awards:** For the 2027 competition, EnviBayes anticipates awarding up to 4 awards. Winners will receive a certificate, a monetary award, and will be invited to present their paper during an EnviBayes conference session that will be devoted exclusively to EnviBayes student paper competition winners.
+
+**Deadline:** The application deadline is **December 1, 2026, by 5pm EST**. Materials must be sent via email to [a.zammit_mangion@unsw.edu.au](mailto:a.zammit_mangion@unsw.edu.au?subject=2027%20EnviBayes%20student%20paper%20competition) with the subject line "2027 EnviBayes student paper competition".
+
+**Application materials:** A complete application consists of:
+
+- the paper, including all figures, tables, and appendices as one PDF file. The paper must be anonymized, entirely double-spaced (abstract, main body, references, footnotes, and appendices), using an 11-point font with at least 1-inch margins on all sides, and no longer than 30 pages (inclusive of all figures and tables; bibliography and appendices do not count towards the 30 pages);
+- a letter of support from the student's advisor confirming the status of the applicant, if currently a student, or indicating the date of graduation, if a recent graduate. The letter should also briefly describe the applicant's role in the research and writing of the paper.
+
+**Review process:** Papers will be reviewed by a student paper competition committee appointed by the EnviBayes Executive Committee. Papers are judged on environmental importance/relevance, statistical modeling/novelty, as well as writing (including organization, clarity and accessibility). The decision of the selecting committee will be final.
+
+**Notification of winners:** Applicants will be notified by January 15, 2027.
+
+## Past winners
 
 ::: {.student-competition-table}
 | Name | Year | University | Title |
