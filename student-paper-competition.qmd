@@ -44,6 +44,6 @@ The EnviBayes section of ISBA is pleased to announce the 2027 EnviBayes student 
 | Sam Gailliot | Jan 2024 | Texas A&M University | Data sketching and stacking: a confluence of two strategies for predictive inference in high-dimensional Gaussian process regressions with air pollution data |
 | Jorge Castillo-Mateo | Jan 2024 | University of Zaragoza/Duke University | Spatio-temporal modeling for record-breaking temperature events in Spain |
 | Glenn Palmer | Jan 2024 | Duke University | Low-rank longitudinal factor regression |
-| Bora Jin | Jan 2022 | Duke University | |
-| Xiaotian Zheng | Jan 2022 | University of California Santa Cruz | |
+| Bora Jin | Jan 2022 | Duke University | Bag of DAGs: Flexible nonstationary modeling of spatiotemporal dependence |
+| Xiaotian Zheng | Jan 2022 | University of California Santa Cruz | Nearest-neighbor geostatistical models for non-Gaussian data |
 :::
